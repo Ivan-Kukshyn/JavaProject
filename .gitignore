@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Directory for build output
+target/
